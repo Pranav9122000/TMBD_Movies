@@ -22,4 +22,6 @@ A movie discovery iOS application built with SwiftUI using Clean Architecture.
 
 ## Architecture
 
-See [ARCHITECTURE.md](ARCHITECTURE.md).
+This project follows **Clean Architecture** with MVVM, Repository Pattern, and Dependency Injection.
+
+For a detailed explanation of the project architecture, see **[Architecture Documentation](./architecture_plan.md)**.
